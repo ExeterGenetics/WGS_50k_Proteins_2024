@@ -1,0 +1,1 @@
+Discovery analysis code used for Hawkes et. al 202X "Whole genome sequencing analysis identifies rare, large-effect non-coding variants and regulatory regions associated with circulating protein levels", including altered version of gcta-cojo
